@@ -1,0 +1,17 @@
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.csproj.AssemblyReference.cache
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.AssemblyInfoInputs.cache
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.AssemblyInfo.cs
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.csproj.CoreCompileInputs.cache
+C:\Dev\csvHelper\bin\Debug\net6.0\Projeto_csvHelper.exe
+C:\Dev\csvHelper\bin\Debug\net6.0\Projeto_csvHelper.deps.json
+C:\Dev\csvHelper\bin\Debug\net6.0\Projeto_csvHelper.runtimeconfig.json
+C:\Dev\csvHelper\bin\Debug\net6.0\Projeto_csvHelper.dll
+C:\Dev\csvHelper\bin\Debug\net6.0\Projeto_csvHelper.pdb
+C:\Dev\csvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.csproj.CopyComplete
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.dll
+C:\Dev\csvHelper\obj\Debug\net6.0\refint\Projeto_csvHelper.dll
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.pdb
+C:\Dev\csvHelper\obj\Debug\net6.0\Projeto_csvHelper.genruntimeconfig.cache
+C:\Dev\csvHelper\obj\Debug\net6.0\ref\Projeto_csvHelper.dll

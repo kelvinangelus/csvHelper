@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EN4ue5Obq/sAnk6a0JjslWuGIQ5U36k3gRJU/lycH/VsxxXVj5ZJ6tbyqXtQGarNwkUaXcotNCIXKBC9ZC3bhw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\csvHelper\\Projeto_csvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelvi\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
